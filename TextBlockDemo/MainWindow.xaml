@@ -1,0 +1,21 @@
+﻿<Window x:Class="TextBlockDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBlockDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="200">
+    <StackPanel>
+        <!--<TextBlock x:Name="myTextBlock" Margin="0,0,-0.4,-0.2">Hello <Bold>World!</Bold> And hello <Italic>you</Italic>
+            <LineBreak/>
+        Go to <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.google.com">google.com</Hyperlink>
+        </TextBlock>
+        <TextBlock TextWrapping="Wrap" Foreground="Aqua">
+            Loremipsumdolorsitametconsecteturadipiscing elit.
+            <Span Foreground="Black"> Sed id </Span>
+           justo nec justo feugiat dictum. Suspendisse at volutpat est. Fusce accumsan ut orci vel rutrum. Quisque congue neque nisi, ut egestas magna vestibulum at. Aenean rutrum metus et cursus malesuada. Maecenas quis diam eu augue porttitor venenatis in ut ante. Ut rhoncus bibendum semper. Praesent fermentum, nulla eu sollicitudin ornare, dolor ex viverra enim, sed tincidunt dolor odio sit amet augue. Morbi molestie cursus arcu, eget posuere enim mattis vel. Integer a blandit dolor. Donec aliquam, erat id luctus ullamcorper, massa justo gravida leo, nec bibendum lacus ex at nulla. Sed ut vestibulum nulla. Fusce aliquam lorem felis, lacinia sagittis neque lacinia et. Duis venenatis blandit ipsum nec varius. Etiam in dui tortor. Sed malesuada turpis vitae ligula congue molestie.Nullam a eleifend orci, et tincidunt augue. Morbi tempus mi tortor, vitae varius nibh imperdiet ac. Fusce nec sodales dolor. Duis finibus sapien a justo fringilla viverra. Nullam faucibus arcu libero, eget consequat nunc cursus non. Fusce hendrerit interdum eros sit amet pharetra. Nulla hendrerit semper sapien, eu interdum leo. Quisque id elementum turpis. Donec eu lorem id diam consectetur vehicula at quis elit. Nulla eget cursus erat, a semper leo. Vivamus ullamcorper, tortor sit amet pellentesque interdum, turpis augue iaculis lorem, in tincidunt nibh urna non justo. Aliquam erat volutpat. Nulla a velit eu sem pharetra vestibulum. Praesent in iaculis velit. Aliquam vel magna vitae erat dictum rutrum sed sit amet ante. Fusce non tempor tortor.Nulla a aliquam sapien. Vivamus erat ante, pulvinar at nulla nec, finibus tincidunt tortor. Suspendisse pellentesque turpis eget eros dapibus, ut congue leo euismod. Donec iaculis, metus vitae porttitor aliquet, urna ligula commodo risus, et auctor dolor turpis sit amet arcu. Integer eleifend mi sed facilisis consectetur. Quisque vitae neque fermentum, posuere dolor ut, elementum urna. Suspendisse consectetur mauris ac egestas pellentesque. Donec consectetur aliquet iaculis.Donec a magna condimentum, cursus tortor eget, molestie purus. Etiam a dui sed urna fermentum elementum. Quisque lobortis nunc quis orci feugiat, interdum finibus erat semper. Curabitur gravida, eros sed iaculis ultricies, lectus lorem ultrices ligula, et efficitur metus orci eu ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris sit amet nibh tortor. Nulla sit amet nisi id ligula rutrum consequat. Quisque pulvinar imperdiet lorem, vel rutrum nibh euismod sollicitudin. Nulla gravida placerat nisi, a egestas nisl fermentum sed. Maecenas nec mauris leo. Donec pretium sollicitudin neque, ut tincidunt urna volutpat id. Aenean libero libero, imperdiet non elementum a, scelerisque vel massa. Nullam vel sollicitudin odio. Quisque nec odio quis elit iaculis finibus.Sed varius congue lorem vel efficitur. Phasellus consequat urna laoreet dictum varius. Aliquam malesuada ex ex, ac efficitur tortor commodo non. Sed vehicula risus sit amet iaculis blandit. Etiam feugiat nisi ac turpis dictum, quis elementum orci rhoncus. Donec nec auctor nisl. Aliquam et gravida mauris. In volutpat lacus a felis ornare tempor. Cras eros purus, varius suscipit ornare sed, finibus nec leo. Morbi consequat dapibus orci, sit amet venenatis nulla vehicula vitae.
+        </TextBlock>-->
+        
+    </StackPanel>
+</Window>
